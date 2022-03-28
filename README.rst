@@ -1,4 +1,4 @@
-Template for the Read the Docs tutorial
+First Trial and leave it empty
 =======================================
 
 This GitHub template includes fictional Python library
